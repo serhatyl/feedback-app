@@ -1,0 +1,10 @@
+/node_modules/
+/lib/
+/test/
+/dist/
+custom-elements.json
+feedbacky.js
+feedbacky.js.map
+feedbacky.d.ts
+feedbacky.d.ts.map
+feedbacky.bundled.js
